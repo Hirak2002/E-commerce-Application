@@ -94,10 +94,6 @@ Log-out (AlertDialog):
 
 ![logout](https://github.com/user-attachments/assets/42eb20dc-36c6-47df-921d-6cccf60bbd89)
 
-And Trailer:
-https://github.com/user-attachments/assets/23d5e3da-d1b6-4353-8519-128d05042f1b
-
-
 
 
 
